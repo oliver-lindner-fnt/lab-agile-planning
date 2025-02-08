@@ -1,3 +1,3 @@
 - Hi, I'm Oliver.  
-- I'm into tech stuff. Doing things better, faster, easier.  
+- Into tech stuff. Doing things better, faster, easier.  
 - Currently learning a lot of things around product management, scrum/agile, and AI.  
